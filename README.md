@@ -1,4 +1,8 @@
-# SaaS Landingpage for React + TypeScript
+# Basic Landingpage for React + TypeScript
+
+## Boilerplat themable project
+- [Full set of react components](https://react.daisyui.com/?path=/docs/welcome--docs)
+- [Theme generator](https://themes.ionevolve.com/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
