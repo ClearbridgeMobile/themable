@@ -1,5 +1,7 @@
 # Basic Landingpage for React + TypeScript
 
+Pushes to main will deploy to [Github Pages](https://clearbridgemobile.github.io/themable/)
+
 ## Boilerplat themable project
 - [Full set of react components](https://react.daisyui.com/?path=/docs/welcome--docs)
 - [Theme generator](https://themes.ionevolve.com/)
